@@ -1,3 +1,3 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select 'TEST'
+# MAGIC select 'TEST2'
